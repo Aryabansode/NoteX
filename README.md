@@ -6,3 +6,6 @@ Features:
 ✔ Basic editing functions (cut, copy, paste, undo, redo)
 Much More features.
 
+The whole code is given in the java File .
+Copy the path properly of the app icon.
+Java also supports forward slashes in path
